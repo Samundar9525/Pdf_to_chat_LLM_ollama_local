@@ -1,3 +1,5 @@
+# [Demo Space]( https://huggingface.co/spaces/Samundar/sqlcoder_fine_tune) 🚀
+
 # PDF-to-Chatbot with Local GGUF Model
 
 This project lets you chat with a PDF using a local GGUF LLM model, embeddings, and Gradio UI.  
