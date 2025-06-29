@@ -13,7 +13,13 @@ The model is downloaded from Google Drive at runtime, so you don’t need to upl
 - Gradio chatbot interface for Q&A.
 
 ---
+## 📸 Snapshots
 
+Here is what the app looks like:
+
+![Chatbot UI](![image](https://github.com/user-attachments/assets/ef3290a5-a445-4b72-b6d3-ba03b866b68b) ![Chatbot UI](![image](![{4AA556E5-6D89-4DBD-A5D7-73ECED3AB25E}](https://github.com/user-attachments/assets/d6a06de3-73dc-417c-941c-fe0e1c7dc405)
+![Chatbot UI](![image](https://github.com/user-attachments/assets/fd886051-bf16-4367-bfe7-781458d94a4d)
+![Chatbot UI](![image](![image](https://github.com/user-attachments/assets/e8ef5814-c371-40a9-81c8-61f0d283eb40)
 ## 📝 Project Structure
 
 ```
