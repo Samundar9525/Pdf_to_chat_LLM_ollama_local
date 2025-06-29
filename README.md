@@ -1,4 +1,4 @@
-# [Demo Space]( https://huggingface.co/spaces/Samundar/sqlcoder_fine_tune) 🚀
+# [Click here to see Demo](https://huggingface.co/spaces/Samundar/pdf_chat_bot) 🚀
 
 # PDF-to-Chatbot with Local GGUF Model
 
